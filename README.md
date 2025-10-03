@@ -10,7 +10,7 @@ Este apartado está compuesto por las siguientes tareas que deben ser debidament
 
  
 
-> Tareas
+### Tareas
 > 
 > - Selección de la temática o dominio en el que se desarrollará el proyecto
 > - Identificar el problema a resolver 
@@ -25,34 +25,32 @@ Este apartado está compuesto por las siguientes tareas que deben ser debidament
 
 
 
-`
-- **Temática**: 
-- **Problema a Resolver**: ¿Cómo crear una almacen de datos que ayude a las personas de movilidad reducida a encontrar lugares accesibles en la ciudad?
-- **Lienzo del problema**
-    * **Who:** personas de movilidad reducida ("no se tiene en cuenta a gente en muletas")
-    * **What:** Moverse por la ciudad
-    * **Where:** Lugares públicos de la ciudad en el día a día 
-    * **Why:** Ayudar a las personas de movilidad reducida a ser más independiente y planificar sus rutas
-
-- Marcar objetivos del proyecto: 
-    * Clasificar las zonas de la ciudad 
-    * (opt.) Identificar los transportes accesibles
-    * Identificar los lugares accesibles y no accesibles
-    * Ubicar los lugares accesibles (en caso de que haya)
-
-
-- Casos de uso: 
-    * Visitas a lugares públicos
-    * Día a Día
-    * Momentos en los que no disponen de ayuda
-    * Organizarse en el tiempo
-
-- Definir métricas clave y evaluar en función de los objetivos y casos de uso: 
-    
-    _"cómo medimos que dicho objetivo se haya completado"_
-
-    * **Accesibilidad en lugares públicos**:
-        * Completa: Cualquier persona de movilidad reducida puede acceder
-        * Parcial: Cualquier persona de movilidad reducida con ayuda externa o mecánica puede acceder
-        * Nula: Ninguna persona de movilidad reducida puede acceder
-`
+> - **Temática**: 
+> - **Problema a Resolver**: ¿Cómo crear una almacen de datos que ayude a las personas de movilidad reducida a encontrar lugares accesibles en la ciudad?
+> - **Lienzo del problema**
+>     * **Who:** personas de movilidad reducida ("no se tiene en cuenta a gente en muletas")
+>     * **What:** Moverse por la ciudad
+>     * **Where:** Lugares públicos de la ciudad en el día a día 
+>     * **Why:** Ayudar a las personas de movilidad reducida a ser más independiente y planificar sus rutas
+> 
+> - Marcar objetivos del proyecto: 
+>     * Clasificar las zonas de la ciudad 
+>     * (opt.) Identificar los transportes accesibles
+>     * Identificar los lugares accesibles y no accesibles
+>     * Ubicar los lugares accesibles (en caso de que haya)
+> 
+> 
+> - Casos de uso: 
+>     * Visitas a lugares públicos
+>     * Día a Día
+>     * Momentos en los que no disponen de ayuda
+>     * Organizarse en el tiempo
+> 
+> - Definir métricas clave y evaluar en función de los objetivos y casos de uso: 
+>     
+>     _"cómo medimos que dicho objetivo se haya completado"_
+> 
+>     * **Accesibilidad en lugares públicos**:
+>         * Completa: Cualquier persona de movilidad reducida puede acceder
+>         * Parcial: Cualquier persona de movilidad reducida con ayuda externa o mecánica puede acceder
+>         * Nula: Ninguna persona de movilidad reducida puede acceder
