@@ -37,17 +37,17 @@ Este apartado está compuesto por las siguientes tareas que deben ser debidament
 <br>
 
 **Objetivos del proyecto:**
-    * O1: Identificar los lugares accesibles
-    * O2: Clasificar las zonas de la ciudad 
-    * Ubicar los lugares accesibles (en caso de que haya)
-    * (opt.) Identificar los transportes accesibles <br><br>
+- O1: Identificar los lugares accesibles
+- O2: Clasificar las zonas de la ciudad 
+- Ubicar los lugares accesibles (en caso de que haya)
+- (opt.) Identificar los transportes accesibles <br><br>
 
 
 **Casos de uso:**
-    * Visitas a lugares públicos
-    * Día a Día
-    * Momentos en los que no disponen de ayuda
-    * Organizarse en el tiempo <br><br>
+- Visitas a lugares públicos
+- Día a Día
+- Momentos en los que no disponen de ayuda
+- Organizarse en el tiempo <br><br>
 
 **Métricas clave y evaluar en función de los objetivos y casos de uso:** <br><br>
     _"cómo medimos que dicho objetivo se haya completado"_ <br>
