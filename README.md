@@ -25,35 +25,37 @@ Este apartado está compuesto por las siguientes tareas que deben ser debidament
 
 
 
-**Temática**: Movilidad y Discapacidad <br>
-**Problema a Resolver**: ¿Cómo crear una almacen de datos que ayude a las personas de movilidad reducida a encontrar lugares accesibles en la ciudad? <br>
+**Temática**: Movilidad y Discapacidad <br><br>
+**Problema a Resolver**: ¿Cómo crear una almacen de datos que ayude a las personas de movilidad reducida a encontrar lugares accesibles en la ciudad? <br><br>
 **Lienzo del problema**
     * **Who:** personas de movilidad reducida ("no se tiene en cuenta a gente en muletas")
     * **What:** Moverse por la ciudad
     * **Where:** Lugares públicos de la ciudad en el día a día 
-    * **Why:** Ayudar a las personas de movilidad reducida a ser más independiente y planificar sus rutas <br>
+    * **Why:** Ayudar a las personas de movilidad reducida a ser más independiente y planificar sus rutas <br><br>
 
 **Objetivos del proyecto:**
     * O1: Identificar los lugares accesibles
     * O2: Clasificar las zonas de la ciudad 
     * Ubicar los lugares accesibles (en caso de que haya)
-    * (opt.) Identificar los transportes accesibles <br>
+    * (opt.) Identificar los transportes accesibles <br><br>
 
 
 **Casos de uso:**
     * Visitas a lugares públicos
     * Día a Día
     * Momentos en los que no disponen de ayuda
-    * Organizarse en el tiempo <br>
+    * Organizarse en el tiempo <br><br>
 
-**Métricas clave y evaluar en función de los objetivos y casos de uso:**
+**Métricas clave y evaluar en función de los objetivos y casos de uso:** <br><br>
     _"cómo medimos que dicho objetivo se haya completado"_ <br>
-    - **O1: Identificar los lugares accesibles:**
-        * Completa: Cualquier persona de movilidad reducida puede acceder
-        * Parcial: Cualquier persona de movilidad reducida con ayuda externa o mecánica puede acceder
-        * Nula: Ninguna persona de movilidad reducida puede acceder 
-    - **O2: Clasificar las zonas de la ciudad:**
-        * Zona temporalmente no accesible: Ninguna persona de movilidad reducia puede acceder por causas temporales
-        * Zona totalmente accesible: Cualquier persona de movilidad reducida puede acceder
-        * Zona parcialmente accesible: Cualquier persona de movilidad reducida con ayuda externa o mecánica puede acceder
-        * Zona innacesible: Ninguna persona de movilidad reducida puede acceder 
+
+- **O1: Identificar los lugares accesibles:**
+    * Completa: Cualquier persona de movilidad reducida puede acceder
+    * Parcial: Cualquier persona de movilidad reducida con ayuda externa o mecánica puede acceder
+    * Nula: Ninguna persona de movilidad reducida puede acceder 
+
+- **O2: Clasificar las zonas de la ciudad:**
+    * Zona temporalmente no accesible: Ninguna persona de movilidad reducia puede acceder por causas temporales
+    * Zona totalmente accesible: Cualquier persona de movilidad reducida puede acceder
+    * Zona parcialmente accesible: Cualquier persona de movilidad reducida con ayuda externa o mecánica puede acceder
+    * Zona innacesible: Ninguna persona de movilidad reducida puede acceder 
