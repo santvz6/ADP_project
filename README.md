@@ -25,13 +25,16 @@ Este apartado está compuesto por las siguientes tareas que deben ser debidament
 
 
 
-**Temática**: Movilidad y Discapacidad <br><br>
-**Problema a Resolver**: ¿Cómo crear una almacen de datos que ayude a las personas de movilidad reducida a encontrar lugares accesibles en la ciudad? <br><br>
+**Temática**: Movilidad y Discapacidad 
+
+**Problema a Resolver**: ¿Cómo crear una almacen de datos que ayude a las personas de movilidad reducida a encontrar lugares accesibles en la ciudad? 
+
 **Lienzo del problema**
-    * **Who:** personas de movilidad reducida ("no se tiene en cuenta a gente en muletas")
-    * **What:** Moverse por la ciudad
-    * **Where:** Lugares públicos de la ciudad en el día a día 
-    * **Why:** Ayudar a las personas de movilidad reducida a ser más independiente y planificar sus rutas <br><br>
+* **Who:** personas de movilidad reducida ("no se tiene en cuenta a gente en muletas")
+* **What:** Moverse por la ciudad
+* **Where:** Lugares públicos de la ciudad en el día a día 
+* **Why:** Ayudar a las personas de movilidad reducida a ser más independiente y planificar sus rutas 
+<br>
 
 **Objetivos del proyecto:**
     * O1: Identificar los lugares accesibles
